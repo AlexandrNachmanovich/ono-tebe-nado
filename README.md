@@ -6,5 +6,5 @@
 
 HTML, CSS, Flexbox, Git
 
-[Ссылка на репозиторий](https://github.com/AlexandrNachmanovich/ono-tebe-nado)
+[Ссылка на репозиторий](https://github.com/AlexandrNachmanovich/ono-tebe-nado)  
 [Ссылка на Pages](https://alexandrnachmanovich.github.io/ono-tebe-nado/)
