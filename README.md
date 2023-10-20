@@ -5,3 +5,5 @@
 ## Использованные технологии:
 
 HTML, CSS, Flexbox, Git
+
+[Ссылка на Pages](https://alexandrnachmanovich.github.io/ono-tebe-nado/)
